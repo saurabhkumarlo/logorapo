@@ -1,1 +1,1 @@
-console.log("Hello Boy");
+console.log("this is a just text");
